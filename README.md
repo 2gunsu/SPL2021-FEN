@@ -31,22 +31,21 @@ You can download pre-processed dataset for our paper in this [link](https://2gun
 Please note that you can also download the raw dataset from [here](https://captain-whu.github.io/DOTA/dataset.html) and preprocess it yourself.
 
 ```
-project
-│   README.md
-│   file001.txt    
-│
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
-│   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+|-- ContentStore
+|   |-- de-DE
+|   |   |-- art.mshc
+|   |   |-- artnoloc.mshc
+|   |   |-- clientserver.mshc
+|   |   |-- noarm.mshc
+|   |   |-- resources.mshc
+|   |   `-- windowsclient.mshc
+|   `-- en-US
+|       |-- art.mshc
+|       |-- artnoloc.mshc
+|       |-- clientserver.mshc
+|       |-- noarm.mshc
+|       |-- resources.mshc
+|       `-- windowsclient.mshc
 ```
 
 #### (2) ISPRS Toronto
