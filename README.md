@@ -39,27 +39,28 @@ DOTA
 |       |-- Image_00001.png
 |       |-- Image_00002.png
 |       `-- ...
-|-- Train
+|-- Test
 |   |-- Label.json
-|   |-- Image
-|       |-- Image_00000.png
-|       |-- Image_00001.png
-|       |-- Image_00002.png
+|   |-- Splited Label
+|   `-- Image
+|       |-- Image_00042.png
+|       |-- Image_00055.png
+|       |-- Image_00060.png
 |       `-- ...
-|-- Train
+|-- Val
 |   |-- Label.json
-|   |-- Image
-|       |-- Image_00000.png
-|       |-- Image_00001.png
-|       |-- Image_00002.png
+|   `-- Image
+|       |-- Image_00066.png
+|       |-- Image_00125.png
+|       |-- Image_00130.png
 |       `-- ...
-|-- Train
-|   |-- Label.json
-|   |-- Image
-|       |-- Image_00000.png
-|       |-- Image_00001.png
-|       |-- Image_00002.png
-|       `-- ...
+`-- Mini
+    |-- Label.json
+    `-- Image
+        |-- Image_00066.png
+        |-- Image_00125.png
+        |-- Image_00130.png
+        `-- ...
 ```
 
 #### (2) ISPRS Toronto
