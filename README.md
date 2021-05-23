@@ -39,6 +39,14 @@ DOTA
 |   |   |-- Image_00001.png
 |   |   |-- Image_00002.png
 |   |   `-- ...
+|
+|-- Test
+|   |-- Label.json
+|   |-- Image
+|   |   |-- Image_00000.png
+|   |   |-- Image_00001.png
+|   |   |-- Image_00002.png
+|   |   `-- ...
 ```
 
 #### (2) ISPRS Toronto
