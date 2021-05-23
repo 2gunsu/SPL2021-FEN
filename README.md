@@ -13,8 +13,8 @@ In this paper, we used two datasets.
 One is **DOTA** and the other is **ISPRS Torronto**.
 
 ## How to Use?
-### (1) Training
-### (2) Evaluation
+#### (1) Training
+#### (2) Evaluation
 
 ## Citation
 This part will be updated later.
