@@ -27,7 +27,7 @@ In this paper, we have used two datasets.
 One is **DOTA** and the other is **ISPRS Torronto**.
 
 #### (1) DOTA: A Large-scale Dataset for Object Detection in Aerial Images [[paper](https://arxiv.org/abs/1711.10398)]
-#### (2) ISPRS Torronto
+#### (2) ISPRS Toronto
 
 ## How to Use?
 #### (1) Training
