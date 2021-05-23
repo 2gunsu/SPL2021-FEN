@@ -23,7 +23,7 @@ One is **DOTA** and the other is **ISPRS Torronto**.
 #### (2) Evaluation
 
 ## Qualitative Results
-Column **(a)** is the base result when no method is applied, **(b)** and **(c)** are the results of applying [Noise2Void](https://ieeexplore.ieee.org/document/8954066) and [DnCNN](https://ieeexplore.ieee.org/document/7839189) at the pixel domain, respectively, and **(d)** is the result of applying our method at the feature domain.
+Column **(a)** is the base result when no method is applied, **(b)** and **(c)** are the results of applying [Noise2Void](https://ieeexplore.ieee.org/document/8954066) and [DnCNN](https://ieeexplore.ieee.org/document/7839189) at the pixel domain, respectively, and **(d)** is the result of applying our method at the feature domain. The image used in this test is an image with Gaussian noise (std=50) added.
 <img src="/IMG/results.png" width="600" height="600">
 
 ## Quantitative Results
