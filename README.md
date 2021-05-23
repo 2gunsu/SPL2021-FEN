@@ -29,6 +29,9 @@ Column **(a)** is the base result when no method is applied, **(b)** and **(c)**
 </p>
 
 ## Quantitative Results
+<p align="center">
+  <img src="/IMG/result_table.png" width="600" height="600">
+</p>
 
 ## Citation
 This part will be updated later.
