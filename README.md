@@ -34,7 +34,7 @@ Please note that you can also download the raw dataset from [here](https://capta
 DOTA
 |-- Train
 |   |-- Label.json
-|   |-- Image
+|   `-- Image
 |       |-- Image_00000.png
 |       |-- Image_00001.png
 |       |-- Image_00002.png
