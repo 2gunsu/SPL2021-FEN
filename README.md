@@ -67,8 +67,8 @@ DOTA
 #### - ISPRS Toronto
 
 ## How to Use?
-#### (1) Training
-#### (2) Evaluation
+#### - Training
+#### - Evaluation
 
 ## Qualitative Results
 Column **(a)** is the base result when no method is applied, **(b)** and **(c)** are the results of applying [Noise2Void](https://ieeexplore.ieee.org/document/8954066) and [DnCNN](https://ieeexplore.ieee.org/document/7839189) at the pixel domain, respectively, and **(d)** is the result of applying our method at the feature domain.
