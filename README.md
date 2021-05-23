@@ -15,7 +15,7 @@ Currently, this paper has been published in **Early Access area in IEEE Xplore**
 ### (2) Evaluation
 
 ## Citation
-This part will be added later.  
+This part will be updated later.
 ```
 @ARTICLE{9432743,  
 author={Lee, Geonsoo and Hong, Sungeun and Cho, Donghyeon},  
