@@ -30,7 +30,7 @@ Column **(a)** is the base result when no method is applied, **(b)** and **(c)**
 
 ## Quantitative Results
 <p align="center">
-  <img src="/IMG/result_table.png" width="600" height="600">
+  <img src="/IMG/result_table.png">
 </p>
 
 ## Citation
