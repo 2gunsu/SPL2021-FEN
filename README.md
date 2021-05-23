@@ -8,8 +8,8 @@ Currently, this paper is published in **Early Access area in IEEE Xplore** and c
 **Keywords**: Small Object Detection, Self-supervised Learning, Noisy Image  
 
 ## Requirements
-
-## Environment
+Our code uses **[Detectron2](https://github.com/facebookresearch/detectron2)** developed by FAIR (Facebook AI Research).   
+Therefore, please visit the repository and install the appropriate version for your environment.
 
 ## Datasets and Preparation
 In this paper, we have used two datasets.   
