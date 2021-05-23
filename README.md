@@ -25,7 +25,7 @@ One is **DOTA** and the other is **ISPRS Torronto**.
 ## Qualitative Results
 Column **(a)** is the base result when no method is applied, **(b)** and **(c)** are the results of applying [Noise2Void](https://ieeexplore.ieee.org/document/8954066) and [DnCNN](https://ieeexplore.ieee.org/document/7839189) at the pixel domain, respectively, and **(d)** is the result of applying our method at the feature domain.
 <p align="center">
-  <img src="/IMG/results.png" width="600" height="600">
+  <img src="/IMG/result_img.png" width="600" height="600">
 </p>
 
 ## Quantitative Results
