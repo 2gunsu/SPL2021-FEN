@@ -15,6 +15,7 @@ Therefore, please visit the repository and install the appropriate version for y
 
 We have tested our code in the following environment.  
 - **OS**: Ubuntu 18.04.5 LTS
+- **GPU**: NVIDIA TITAN RTX (24 GB)
 - **CUDA**: 11.0
 - **Python**: 3.8.5
 - **Pytorch**: 1.7.1
