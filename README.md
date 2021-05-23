@@ -12,6 +12,9 @@ Currently, this paper has been published in **Early Access area in IEEE Xplore**
 In this paper, we used two datasets.   
 One is **DOTA** and the other is **ISPRS Torronto**.
 
+#### (1) DOTA
+#### (2) ISPRS Torronto
+
 ## How to Use?
 #### (1) Training
 #### (2) Evaluation
