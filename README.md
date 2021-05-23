@@ -10,7 +10,9 @@ Currently, this paper has been published in **Early Access area in IEEE Xplore**
 
 ## Dataset
 
-## Train and Test
+## Training and Evaluation
+### (1) Training
+### (2) Evaluation
 
 ## Citation
 This part will be added later.  
