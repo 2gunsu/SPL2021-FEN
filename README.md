@@ -35,18 +35,31 @@ DOTA
 |-- Train
 |   |-- Label.json
 |   |-- Image
-|   |   |-- Image_00000.png
-|   |   |-- Image_00001.png
-|   |   |-- Image_00002.png
-|   |   `-- ...
-|
-|-- Test
+|       |-- Image_00000.png
+|       |-- Image_00001.png
+|       |-- Image_00002.png
+|       `-- ...
+|-- Train
 |   |-- Label.json
 |   |-- Image
-|   |   |-- Image_00000.png
-|   |   |-- Image_00001.png
-|   |   |-- Image_00002.png
-|   |   `-- ...
+|       |-- Image_00000.png
+|       |-- Image_00001.png
+|       |-- Image_00002.png
+|       `-- ...
+|-- Train
+|   |-- Label.json
+|   |-- Image
+|       |-- Image_00000.png
+|       |-- Image_00001.png
+|       |-- Image_00002.png
+|       `-- ...
+|-- Train
+|   |-- Label.json
+|   |-- Image
+|       |-- Image_00000.png
+|       |-- Image_00001.png
+|       |-- Image_00002.png
+|       `-- ...
 ```
 
 #### (2) ISPRS Toronto
