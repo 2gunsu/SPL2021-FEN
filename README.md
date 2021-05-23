@@ -30,6 +30,25 @@ One is **DOTA** and the other is **ISPRS Torronto**.
 You can download pre-processed dataset for our paper in this [link](https://2gunsu.synology.me:1006/fsdownload/eujZj9FTJ/DOTA.zip) directly.  
 Please note that you can also download the raw dataset from [here](https://captain-whu.github.io/DOTA/dataset.html) and preprocess it yourself.
 
+```
+project
+│   README.md
+│   file001.txt    
+│
+└───folder1
+│   │   file011.txt
+│   │   file012.txt
+│   │
+│   └───subfolder1
+│       │   file111.txt
+│       │   file112.txt
+│       │   ...
+│   
+└───folder2
+    │   file021.txt
+    │   file022.txt
+```
+
 #### (2) ISPRS Toronto
 
 ## How to Use?
