@@ -13,7 +13,7 @@ Currently, this paper is published in **Early Access area in IEEE Xplore** and c
 Our code uses **[Detectron2](https://github.com/facebookresearch/detectron2)** developed by FAIR (Facebook AI Research).   
 Therefore, please visit the repository and install the appropriate version for your environment.  
 
-We tested our code in the following environment.  
+We have tested our code in the following environment.  
 - **OS**: Ubuntu 18.04.5 LTS
 - **CUDA**: 11.0
 - **Python**: 3.8.5
