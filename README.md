@@ -32,7 +32,7 @@ Please note that you can also download the raw dataset from [here](https://capta
 The structure of the pre-processed data is as follows.
 
 ```
-DOTA
+DOTA.zip
 |-- Train
 |   |-- Label.json
 |   `-- Image
