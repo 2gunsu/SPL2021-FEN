@@ -16,7 +16,8 @@ Currently, this paper has been published in **Early Access area in IEEE Xplore**
 
 ## Citation
 This part will be added later.  
-> @ARTICLE{9432743,  author={Lee, Geonsoo and Hong, Sungeun and Cho, Donghyeon},  
+> @ARTICLE{9432743,  
+> author={Lee, Geonsoo and Hong, Sungeun and Cho, Donghyeon},  
 > journal={IEEE Signal Processing Letters},   
 > title={Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images},   
 > year={2021},  
