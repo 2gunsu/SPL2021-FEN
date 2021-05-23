@@ -11,7 +11,15 @@ Currently, this paper is published in **Early Access area in IEEE Xplore** and c
 **Note**: This code **cannot be executed** in Windows environment.  
 
 Our code uses **[Detectron2](https://github.com/facebookresearch/detectron2)** developed by FAIR (Facebook AI Research).   
-Therefore, please visit the repository and install the appropriate version for your environment.
+Therefore, please visit the repository and install the appropriate version for your environment.  
+
+We tested the code in the following environment.  
+- OS: Ubuntu 18.04.5 LTS
+- CUDA: 11.0
+- Python: 3.8.5
+- Pytorch: 1.7.1
+- Torchvision: 0.8.2
+- Detectron2: 0.3
 
 ## Datasets and Preparation
 In this paper, we have used two datasets.   
