@@ -23,6 +23,7 @@ One is **DOTA** and the other is **ISPRS Torronto**.
 #### (2) Evaluation
 
 ## Qualitative Results
+![results](./IMG/results.png)
 
 ## Quantitative Results
 
