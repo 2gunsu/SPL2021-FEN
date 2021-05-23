@@ -8,7 +8,7 @@ Currently, this paper has been published in **Early Access area in IEEE Xplore**
 
 ## Requirement
 
-## Dataset
+## Dataset and Preparation
 In this paper, we used two datasets.   
 One is **DOTA** and the other is **ISPRS Torronto**.
 
