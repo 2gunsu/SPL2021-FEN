@@ -29,6 +29,7 @@ Column **(a)** is the base result when no method is applied, **(b)** and **(c)**
 </p>
 
 ## Quantitative Results
+We have used five out of the standard evaluation metrics of [COCO](https://cocodataset.org/#detection-eval).
 <p align="center">
   <img src="/IMG/result_table.png">
 </p>
