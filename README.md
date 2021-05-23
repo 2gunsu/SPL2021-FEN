@@ -6,11 +6,11 @@ Currently, this paper has been published in **Early Access area in IEEE Xplore**
 **Authors**: *Geonsoo Lee*, *[Sungeun Hong](https://scholar.google.com/citations?user=CD27PpoAAAAJ&hl=ko&oi=ao)*, and *[Donghyeon Cho](https://scholar.google.com/citations?user=zj-NER4AAAAJ&hl=ko&oi=ao)*  
 **Keywords**: Small Object Detection, Self-supervised Learning, Noisy Image  
 
-## Requirement
+## Requirements
 
 ## Environment
 
-## Dataset and Preparation
+## Datasets and Preparation
 In this paper, we have used two datasets.   
 One is **DOTA** and the other is **ISPRS Torronto**.
 
