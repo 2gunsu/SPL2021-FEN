@@ -42,7 +42,6 @@ DOTA
 |       `-- ...
 |-- Test
 |   |-- Label.json
-|   |-- Splited Label
 |   `-- Image
 |       |-- Image_00042.png
 |       |-- Image_00055.png
