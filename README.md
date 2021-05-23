@@ -64,10 +64,10 @@ DOTA.zip
 ```
 
 #### - ISPRS Toronto
-(1) Please complete the Data Request Form at this [link](https://www2.isprs.org/commissions/comm2/wg4/benchmark/data-request-form/).  
+(1) Please complete the data request form at this [link](https://www2.isprs.org/commissions/comm2/wg4/benchmark/data-request-form/).  
 (2) Access the FTP link you received by email.  
 (3) Download all ```.tif``` image files in ```[FTP LINK]/ISPRS_BENCHMARK_DATASETS/Toronto/Images```.
-
+(4) Download the label files we made [here](https://2gunsu.synology.me:1006/sharing/vzkqIH7kq).
 
 ## How to Use?
 #### - Training
