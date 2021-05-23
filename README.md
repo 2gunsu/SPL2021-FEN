@@ -64,6 +64,7 @@ DOTA.zip
 ```
 
 #### - ISPRS Toronto
+This part will be updated later.
 
 ## How to Use?
 #### - Training
