@@ -11,7 +11,7 @@ Currently, this paper is published in **Early Access area in IEEE Xplore** and c
 **Note**: This code **cannot be executed** in Windows environment.  
 
 Our code uses **[Detectron2](https://github.com/facebookresearch/detectron2)** developed by FAIR (Facebook AI Research).   
-Therefore, please visit the repository and install the appropriate version for your environment.  
+Therefore, please visit the repository and install the appropriate version that fits your environment.  
 
 We have tested our code in the following environment.  
 - **OS**: Ubuntu 18.04.5 LTS
