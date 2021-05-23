@@ -66,7 +66,7 @@ DOTA.zip
 #### - ISPRS Toronto
 (1) Please complete the Data Request Form at this [link](https://www2.isprs.org/commissions/comm2/wg4/benchmark/data-request-form/).  
 (2) Access the FTP link you received by email.  
-(3) Download all ```.tif``` image files in ```[FTP LINK]/ISPRS_BENCHMARK_DATASETS/Toronto/Images```
+(3) Download all ```.tif``` image files in ```[FTP LINK]/ISPRS_BENCHMARK_DATASETS/Toronto/Images```.
 
 
 ## How to Use?
