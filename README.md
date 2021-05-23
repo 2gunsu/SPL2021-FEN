@@ -16,7 +16,7 @@ Currently, this paper has been published in **Early Access area in IEEE Xplore**
 
 ## Citation
 This part will be added later.  
-'''
+```
 @ARTICLE{9432743,  
 author={Lee, Geonsoo and Hong, Sungeun and Cho, Donghyeon},  
 journal={IEEE Signal Processing Letters},   
@@ -26,4 +26,4 @@ volume={},
 number={},  
 pages={1-1},  
 doi={10.1109/LSP.2021.3081041}}
-'''
+```
