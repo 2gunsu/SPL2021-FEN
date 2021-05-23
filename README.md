@@ -23,6 +23,7 @@ One is **DOTA** and the other is **ISPRS Torronto**.
 #### (2) Evaluation
 
 ## Qualitative Results
+(a) Column is the base result when no method is applied, (b) and (c) are the results of applying [Noise2Void](https://ieeexplore.ieee.org/document/8954066) and [DnCNN](https://ieeexplore.ieee.org/document/7839189) at the pixel level, respectively, and (d) is the result of applying our method at the feature level.
 <img src="/IMG/results.png" width="600" height="600">
 
 ## Quantitative Results
@@ -40,7 +41,3 @@ number={},
 pages={1-1},  
 doi={10.1109/LSP.2021.3081041}}
 ```
-
-## References
-<a id="1>[1]<\a>
-A. Krull, T. Buchholz and F. Jug, "Noise2Void - Learning Denoising From Single Noisy Images," 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 2124-2132, doi: 10.1109/CVPR.2019.00223.
