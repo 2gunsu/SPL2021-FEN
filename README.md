@@ -42,5 +42,5 @@ doi={10.1109/LSP.2021.3081041}}
 ```
 
 ## References
-<a id="1>[1]</a>
+<a id="1>[1]<\a>
 A. Krull, T. Buchholz and F. Jug, "Noise2Void - Learning Denoising From Single Noisy Images," 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 2124-2132, doi: 10.1109/CVPR.2019.00223.
