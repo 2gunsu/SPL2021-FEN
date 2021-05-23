@@ -26,7 +26,7 @@ We have tested our code in the following environment.
 In this paper, we have used two datasets.   
 One is **DOTA** and the other is **ISPRS Torronto**.
 
-#### (1) DOTA: A Large-scale Dataset for Object Detection in Aerial Images [[paper](https://arxiv.org/abs/1711.10398)]
+#### - DOTA: A Large-scale Dataset for Object Detection in Aerial Images [[paper](https://arxiv.org/abs/1711.10398)]
 You can download pre-processed dataset for our paper in this [link](https://2gunsu.synology.me:1006/fsdownload/eujZj9FTJ/DOTA.zip) directly.  
 Please note that you can also download the raw dataset from [here](https://captain-whu.github.io/DOTA/dataset.html) and preprocess it by yourself.  
 The structure of the pre-processed data is as follows.
@@ -64,7 +64,7 @@ DOTA
         `-- ...
 ```
 
-#### (2) ISPRS Toronto
+#### - ISPRS Toronto
 
 ## How to Use?
 #### (1) Training
