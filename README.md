@@ -93,13 +93,14 @@ python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101
                     --data_root     [FILL]
                     --output_dir    [FILL]
                     --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp']
-                    --noise_params  [FILL] 
+                    --noise_params  [FILL]
                     --fen_levels    [FILL]     # Make combinations using ['p2', 'p3', 'p4', 'p5', 'p6']
                                                # For example, ['p2', 'p4'], ['p5'], ['p3', 'p6'].
 ```
 
 
 ### Evaluation
+Like the Train process, you can run ```run_test_net.py`'' directly using the IDE, or you can run ```run_test.py`'' using the terminal.  
 
 ## Qualitative Results
 Column **(a)** is the base result when no method is applied, **(b)** and **(c)** are the results of applying [Noise2Void](https://ieeexplore.ieee.org/document/8954066) and [DnCNN](https://ieeexplore.ieee.org/document/7839189) at the **pixel** domain, respectively, and **(d)** is the result of applying our method at the **feature** domain.
