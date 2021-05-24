@@ -125,7 +125,6 @@ We have used five out of the standard evaluation metrics of [COCO](https://cocod
 </p>
 
 ## Citation
-This part will be updated later.
 ```
 @ARTICLE{9432743,  
 author={Lee, Geonsoo and Hong, Sungeun and Cho, Donghyeon},  
