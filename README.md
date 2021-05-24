@@ -29,7 +29,7 @@ One is **DOTA** and the other is **ISPRS Torronto**.
 #### - DOTA: A Large-scale Dataset for Object Detection in Aerial Images [[paper](https://arxiv.org/abs/1711.10398)]
 You can download pre-processed dataset for our paper in this [link](https://2gunsu.synology.me:1006/sharing/TCu337UJP) directly.  
 Please note that you can also download the raw dataset from [here](https://captain-whu.github.io/DOTA/dataset.html) and pre-process it by yourself.  
-The structure of the pre-processed data is as follows.
+The structure of the pre-processed data is as follows.  
 ```Label.json``` follows the **[COCO data format](https://cocodataset.org/#format-data)**.
 
 ```
