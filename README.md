@@ -30,7 +30,7 @@ One is **DOTA** and the other is **ISPRS Toronto**.
 You can download pre-processed DOTA dataset for our paper in this **[link](https://2gunsu.synology.me:1006/sharing/TCu337UJP)** directly.  
 Please note that you can also download the raw dataset and pre-process it by yourself.  
 The structure of the pre-processed data is as follows.  
-```Label.json``` follows the **[COCO data format](https://cocodataset.org/#format-data)**.
+Make sure ```Label.json``` follows the **[COCO data format](https://cocodataset.org/#format-data)**.
 
 ```
 DOTA.zip
