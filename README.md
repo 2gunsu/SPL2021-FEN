@@ -73,6 +73,8 @@ DOTA.zip
 ## How to Use?
 #### - Training
 You can run it directly from tools like Pycharm via ```run_train_net.py```.  
+In this case, you have to manually fill in the parameters at the top of the code.  
+
 You can also run ```run_train.py``` from the terminal with the command below.
 
 
