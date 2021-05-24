@@ -71,7 +71,7 @@ DOTA.zip
 (4) Download the label files we made **[here](https://2gunsu.synology.me:1006/sharing/vzkqIH7kq)**. Like DOTA, these annotations also follow the coco data format.
 
 ## Train and Test
-#### - Training
+### Training
 You can run ```run_train_net.py``` directly from tools like **Pycharm**.  
 In this case, you have to manually fill in the parameters at the top of the code.  
 
@@ -82,7 +82,7 @@ python run_train.py --arch [Backbone Architecture]
 ```
 
 
-#### - Evaluation
+### Evaluation
 
 ## Qualitative Results
 Column **(a)** is the base result when no method is applied, **(b)** and **(c)** are the results of applying [Noise2Void](https://ieeexplore.ieee.org/document/8954066) and [DnCNN](https://ieeexplore.ieee.org/document/7839189) at the **pixel** domain, respectively, and **(d)** is the result of applying our method at the **feature** domain.
