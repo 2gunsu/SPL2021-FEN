@@ -104,7 +104,7 @@ python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101
 
 ### Evaluation
 You can run ```run_test_net.py``` directly using the IDE, or you can run ```run_test.py``` using the terminal.  
-When using a terminal, the command is as follows.  
+When using ```run_test.py```, the command is as follows.  
 ```python
 python run_test.py --ckpt_root     [FILL]
                    --data_root     [FILL]
