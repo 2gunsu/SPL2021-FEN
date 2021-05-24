@@ -70,7 +70,7 @@ DOTA.zip
 (3) Download all ```.tif``` image files in ```[FTP LINK]/ISPRS_BENCHMARK_DATASETS/Toronto/Images```.  
 (4) Download the label files we made **[here](https://2gunsu.synology.me:1006/sharing/vzkqIH7kq)**. Like DOTA, these annotations also follow the coco data format.
 
-## Train and Test
+## Usages
 ### Training
 You can run ```run_train_net.py``` directly using IDEs like **Pycharm**.  
 In this case, you have to manually fill in the required parameters in the code.  
