@@ -78,7 +78,7 @@ In this case, you have to manually fill in the required parameters in the code.
 You can also run ```run_train.py``` from the terminal with the command below.  
 
 __* Without FEN__
-```
+```python
 python run_train.py --arch [FILL]           # Select one in ['R50-FPN', 'R101-FPN', 'X101-FPN']
                     --data_root [FILL]
                     --output_dir [FILL]
