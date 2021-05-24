@@ -2,7 +2,7 @@
 Official implementation for our paper,  
 **"Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images"**.  
 This paper has been accepted at **IEEE Signal Processing Letters 2021**.  
-Currently, this paper is published in **Early Access area in IEEE Xplore** and can be viewed [here](https://ieeexplore.ieee.org/document/9432743). 
+Currently, this paper is published in **Early Access area in IEEE Xplore** and can be viewed **[here](https://ieeexplore.ieee.org/document/9432743)**. 
   
 **Authors**: *Geonsoo Lee*, *[Sungeun Hong](https://scholar.google.com/citations?user=CD27PpoAAAAJ&hl=ko&oi=ao)*, and *[Donghyeon Cho](https://scholar.google.com/citations?user=zj-NER4AAAAJ&hl=ko&oi=ao)*  
 **Keywords**: Small Object Detection, Self-supervised Learning, Noisy Image  
@@ -27,8 +27,8 @@ In this paper, we have used two datasets.
 One is **DOTA** and the other is **ISPRS Torronto**.
 
 #### - DOTA: A Large-scale Dataset for Object Detection in Aerial Images [[paper](https://arxiv.org/abs/1711.10398)]
-You can download pre-processed DOTA dataset for our paper in this [link](https://2gunsu.synology.me:1006/sharing/TCu337UJP) directly.  
-Please note that you can also download the raw dataset from [here](https://captain-whu.github.io/DOTA/dataset.html) and pre-process it by yourself.  
+You can download pre-processed DOTA dataset for our paper in this **[link](https://2gunsu.synology.me:1006/sharing/TCu337UJP)** directly.  
+Please note that you can also download the raw dataset from **[here](https://captain-whu.github.io/DOTA/dataset.html)** and pre-process it by yourself.  
 The structure of the pre-processed data is as follows.  
 ```Label.json``` follows the **[COCO data format](https://cocodataset.org/#format-data)**.
 
@@ -65,10 +65,10 @@ DOTA.zip
 ```
 
 #### - ISPRS Toronto
-(1) Please complete the data request form [here](https://www2.isprs.org/commissions/comm2/wg4/benchmark/data-request-form/).  
+(1) Please complete the data request form **[here](https://www2.isprs.org/commissions/comm2/wg4/benchmark/data-request-form/)**.  
 (2) Access the FTP link you received by email.  
 (3) Download all ```.tif``` image files in ```[FTP LINK]/ISPRS_BENCHMARK_DATASETS/Toronto/Images```.  
-(4) Download the label files we made [here](https://2gunsu.synology.me:1006/sharing/vzkqIH7kq). Like DOTA, these annotations also follow the coco data format.
+(4) Download the label files we made **[here](https://2gunsu.synology.me:1006/sharing/vzkqIH7kq)**. Like DOTA, these annotations also follow the coco data format.
 
 ## How to Use?
 #### - Training
