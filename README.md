@@ -72,8 +72,8 @@ DOTA.zip
 
 ## Train and Test
 ### Training
-You can run ```run_train_net.py``` directly from tools like **Pycharm**.  
-In this case, you have to manually fill in the parameters at the top of the code.  
+You can run ```run_train_net.py``` directly using IDEs like **Pycharm**.  
+In this case, you have to manually fill in the required parameters in the code.  
 
 You can also run ```run_train.py``` from the terminal with the command below.
 ```
