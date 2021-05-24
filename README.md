@@ -86,6 +86,18 @@ python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101
                     --noise_params  [FILL] 
 ```
 
+__* With FEN__
+```python
+python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101-FPN', 'X101-FPN']
+                    --use_fen
+                    --data_root     [FILL]
+                    --output_dir    [FILL]
+                    --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp']
+                    --noise_params  [FILL] 
+                    --fen_levels    [FILL]     # Make combinations using ['p2', 'p3', 'p4', 'p5', 'p6']
+                                               # For example, ['p2', 'p4'], ['p5'], ['p3', 'p6'].
+```
+
 
 ### Evaluation
 
