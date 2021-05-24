@@ -76,6 +76,7 @@ You can run ```run_train_net.py``` directly using IDEs like **Pycharm**.
 In this case, you have to manually fill in the required parameters in the code.  
 
 You can also run ```run_train.py``` from the terminal with the command below.  
+
 __* Without FEN__
 ```
 python run_train.py --arch [Backbone Architecture]    # Select one in ['R50-FPN', 'R101-FPN', 'X101-FPN']
