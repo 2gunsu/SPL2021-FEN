@@ -92,12 +92,13 @@ python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101
 
 __With FEN__
 ```python
-python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101-FPN', 'X101-FPN']
+python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101-FPN', 'X101-FPN'] (Default: 'X101-FPN')
                     --use_fen
                     --data_root     [FILL]
                     --output_dir    [FILL]
-                    --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp']
+                    --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp'] (Default: 'none')
                     --noise_params  [FILL]
+                    --input_size    [FILL]     # Size of training data (Default: 800)
                     --fen_levels    [FILL]     # Make combinations using ['p2', 'p3', 'p4', 'p5', 'p6']
                                                # For example, ['p2', 'p4'], ['p5'], ['p3', 'p6'].
 ```
@@ -111,6 +112,7 @@ python run_test.py --ckpt_root     [FILL]
                    --data_root     [FILL]
                    --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp']
                    --noise_params  [FILL]             
+                   --input_size    [FILL]     # Size of inference data (Default: 800)
 ```
 
 ## Qualitative Results
