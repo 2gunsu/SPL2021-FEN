@@ -86,7 +86,7 @@ python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101
                     --data_root     [FILL]
                     --output_dir    [FILL]
                     --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp'] (Default: 'none')
-                    --noise_params  [FILL] 
+                    --noise_params  [FILL]     
                     --input_size    [FILL]     # Size of training data (Default: 800)
 ```
 
@@ -100,7 +100,7 @@ python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101
                     --noise_params  [FILL]
                     --input_size    [FILL]     # Size of training data (Default: 800)
                     --fen_levels    [FILL]     # Make combinations using ['p2', 'p3', 'p4', 'p5', 'p6']
-                                               # For example, --fen levels p2 p4 p5
+                                               # For example, --fen_levels p2 p4 p5
 ```
 
 
