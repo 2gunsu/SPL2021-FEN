@@ -110,7 +110,7 @@ When using ```run_test.py```, the command is as follows.
 ```python
 python run_test.py --ckpt_root     [FILL]
                    --data_root     [FILL]
-                   --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp']
+                   --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp'] (Default: 'none')
                    --noise_params  [FILL]             
                    --input_size    [FILL]     # Size of inference data (Default: 800)
 ```
