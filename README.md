@@ -82,11 +82,12 @@ You can also run ```run_train.py``` from the terminal with the command below.
 
 __Without FEN__
 ```python
-python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101-FPN', 'X101-FPN']
+python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101-FPN', 'X101-FPN'] (Default: 'X101-FPN')
                     --data_root     [FILL]
                     --output_dir    [FILL]
-                    --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp']
+                    --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp'] (Default: 'none')
                     --noise_params  [FILL] 
+                    --input_size    [FILL]     # Size of training data (Default: 800)
 ```
 
 __With FEN__
