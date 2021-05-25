@@ -21,7 +21,7 @@ parser = ArgumentParser(description="Evaulation for FEN")
 
 parser.add_argument('--data_root', type=str, help="Directory of test dataset")
 parser.add_argument('--ckpt_root', type=str, help="Directory of checkpoint")
-parser.add_argument('--noise_type', type=str, help="What kind of noise to be added.", choices=['none', 'gaussian', 'snp'])
+parser.add_argument('--noise_type', type=str, default='none', help="What kind of noise to be added.", choices=['none', 'gaussian', 'snp'])
 parser.add_argument('--noise_params', nargs="+", default=[], help="Parameters for controlling the noise.")
 parser.add_argument('--input_size', type=int, default=800, help="Determinte the size of the image to be used for evaluation.")
 
