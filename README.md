@@ -83,7 +83,7 @@ You can also run ```run_train.py``` from the terminal with the command below.
 __Without FEN__
 ```python
 python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101-FPN', 'X101-FPN'] (Default: 'X101-FPN')
-                    --data_root     [FILL]     # Directory which contains 'Train', 'Test', 'Val' forlders
+                    --data_root     [FILL]     # Directory which contains 'Train', 'Test', 'Val' folders
                     --output_dir    [FILL]
                     --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp'] (Default: 'none')
                     --noise_params  [FILL]     
@@ -94,7 +94,7 @@ __With FEN__
 ```python
 python run_train.py --arch          [FILL]     # Select one in ['R50-FPN', 'R101-FPN', 'X101-FPN'] (Default: 'X101-FPN')
                     --use_fen
-                    --data_root     [FILL]     # Directory which contains 'Image' folder and 'Label.json'
+                    --data_root     [FILL]     # Directory which contains 'Train', 'Test', 'Val' folders
                     --output_dir    [FILL]
                     --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp'] (Default: 'none')
                     --noise_params  [FILL]
@@ -109,7 +109,7 @@ You can run ```run_test_net.py``` directly using the IDE, or you can run ```run_
 When using ```run_test.py```, the command is as follows.  
 ```python
 python run_test.py --ckpt_root     [FILL]
-                   --data_root     [FILL]
+                   --data_root     [FILL]     # Directory which contains 'Image' folder and 'Label.json'
                    --noise_type    [FILL]     # Select one in ['none', 'gaussian', 'snp'] (Default: 'none')
                    --noise_params  [FILL]             
                    --input_size    [FILL]     # Size of inference data (Default: 800)
