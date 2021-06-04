@@ -132,10 +132,10 @@ We have used five out of the standard evaluation metrics of **[COCO](https://coc
 @ARTICLE{9432743,  
 author={Lee, Geonsoo and Hong, Sungeun and Cho, Donghyeon},  
 journal={IEEE Signal Processing Letters},   
-title={Self-supervised Feature Enhancement Networks for Small Object Detection in Noisy Images},   
+title={Self-Supervised Feature Enhancement Networks for Small Object Detection in Noisy Images},   
 year={2021},  
-volume={},  
+volume={28}, 
 number={},  
-pages={1-1},  
+pages={1026-1030},  
 doi={10.1109/LSP.2021.3081041}}
 ```
