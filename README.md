@@ -27,7 +27,7 @@ In this paper, we have used two datasets.
 One is **DOTA** (for train and test) and the other is **ISPRS Toronto** (for only test).
 
 ### DOTA: A Large-scale Dataset for Object Detection in Aerial Images [[Paper](https://arxiv.org/abs/1711.10398)] [[Site](https://captain-whu.github.io/DOTA/dataset.html)]
-You can download pre-processed DOTA dataset for our paper in this **[link](https://2gunsu.synology.me:1006/sharing/TCu337UJP)** directly.  
+You can download pre-processed DOTA dataset for our paper in this **[link](https://drive.google.com/file/d/1NPdqu3CQWEX6639OV5c6Tletb3lN7eci/view?usp=sharing)** directly.  
 Please note that you can also download the raw dataset and pre-process it by yourself.  
 The structure of the pre-processed data is as follows.  
 Make sure ```Label.json``` follows the **[COCO data format](https://cocodataset.org/#format-data)**.
